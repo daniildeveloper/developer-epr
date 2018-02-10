@@ -1,0 +1,18 @@
+[ ] First release
+  [ ] Evernote
+    [ ] Расширение для браузера
+    [ ] Серверная часть
+    [ ] Мобильное приложение
+  [ ] GetPocket - возможность сохранять странички\контент по тегам
+    [ ] Расширение для браузера
+    [ ] Приложение
+  [ ] CRM
+  [ ] EmailClient
+  [ ] Telegram
+  [ ] Vk
+  [ ] Trading view
+  [ ] Project Manager like orgmode conncected to my ides and editors with saving all dta on server
+  [ ] Focus Timer Reborn
+  [ ] Calendar
+  [ ] Contacts
+  [ ] Map
